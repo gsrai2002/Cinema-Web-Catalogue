@@ -1,0 +1,17 @@
+trending -> movies and shows (all)
+
+movies ->   now playing
+            popular
+            top rated
+            upcoming
+            get details of a particular movie ->    show similar 
+                                                    show reviews
+
+tv shows -> get tv airing today
+            get tv on the air
+            get popular
+            get top rated
+            get details of a particular tv show ->  show similar
+                                                    show reviews
+
+search ->   multi search
